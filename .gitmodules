@@ -3,7 +3,7 @@
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Cite.git
 [submodule "AbsenteeLandlord"]
 	path = AbsenteeLandlord
-	url = lucca@kuu.mechanipus.com:git/AbsenteeLandlord
+	url = git://github.com/lashtear/AbsenteeLandlord.git
 [submodule "InputBox"]
 	path = InputBox
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InputBox.git
