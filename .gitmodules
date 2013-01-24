@@ -10,3 +10,6 @@
 [submodule "ParserFunctions"]
 	path = ParserFunctions
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ParserFunctions.git
+[submodule "SyntaxHighlight_GeSHi"]
+	path = SyntaxHighlight_GeSHi
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SyntaxHighlight_GeSHi
