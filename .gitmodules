@@ -4,3 +4,6 @@
 [submodule "AbsenteeLandlord"]
 	path = AbsenteeLandlord
 	url = lucca@kuu.mechanipus.com:git/AbsenteeLandlord
+[submodule "InputBox"]
+	path = InputBox
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InputBox.git
