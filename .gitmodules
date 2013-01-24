@@ -7,3 +7,6 @@
 [submodule "InputBox"]
 	path = InputBox
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/InputBox.git
+[submodule "ParserFunctions"]
+	path = ParserFunctions
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ParserFunctions.git
