@@ -16,3 +16,6 @@
 [submodule "Variables"]
 	path = Variables
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Variables
+[submodule "ImageMap"]
+	path = ImageMap
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/ImageMap.git
