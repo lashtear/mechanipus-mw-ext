@@ -4,3 +4,6 @@
 [submodule "Variables"]
 	path = Variables
 	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Variables
+[submodule "DynamicPageList"]
+	path = DynamicPageList
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/DynamicPageList
